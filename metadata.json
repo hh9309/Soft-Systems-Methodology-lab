@@ -1,0 +1,6 @@
+{
+  "name": "软系统方法 WebApp 实验室",
+  "description": "软系统方法 (SSM) 综合实验工作站：涵盖系统代数推导、丰富图景交互绘制、CATWOE 深度剖析、利益冲突博弈、六大经典案例库、NetworkX 拓扑分析、概念模型对比与 AI 随诊。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
